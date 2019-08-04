@@ -1,0 +1,162 @@
+
+603 : name 'ga1' is not defined
+821 : name 'ga1' is not defined
+944 : name 'ga1' is not defined
+559 : TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+199 : TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+430 : name 'ga1' is not defined
+657 : invalid literal for int() with base 10: 'qr\n├「•」Tutup qr\n├「•」Leave\n├「•」Url\n├「•」Gruplist\n├「•」Gnamegrup「Text」\n├「•」Gurl「nomer」\n├「•」Call「@」\n├「•」Fotgbc「Text」\n├「•」Fotfbc「Text」\n├「•」Flexgbc「Text」\n├「•」Flexfbc「Text」\n├「•」Out「number」\n├「•」C
+771 : invalid literal for int() with base 10: "literal for int() with base 10: 'qr\\n├「•」Tutup qr\\n├「•」Leave\\n├「•」Url\\n├「•」Gruplist\\n├「•」Gnamegrup「Text」\\n├「•」Gurl「nomer」\\n├「•」Call「@」\\n├「•」Fotgbc「Text」\\n├「•」Fotfbc「Text」\\n├「•」Flexgbc「Text」
+976 : invalid literal for int() with base 10: 'literal for int() with base 10: "literal for int() with base 10: \'qr\\\\n├「•」Tutup qr\\\\n├「•」Leave\\\\n├「•」Url\\\\n├「•」Gruplist\\\\n├「•」Gnamegrup「Text」\\\\n├「•」Gurl「nomer」\\\\n├「•」Call「@」\\\\n├「•」F
+562 : invalid literal for int() with base 10: 'literal for int() with base 10: \'literal for int() with base 10: "literal for int() with base 10: \\\'qr\\\\\\\\n├「•」Tutup qr\\\\\\\\n├「•」Leave\\\\\\\\n├「•」Url\\\\\\\\n├「•」Gruplist\\\\\\\\n├「•」Gname
+829 : name 'ga1' is not defined
+429 : name 'ga1' is not defined
+806 : name 'ga1' is not defined
+946 : name 'ga1' is not defined
+961 : name 'ga1' is not defined
+500 : name 'ga1' is not defined
+515 : name 'ga1' is not defined
+648 : name 'ga1' is not defined
+697 : Request-sent
+490 : name 'ga1' is not defined
+433 : name 'ga1' is not defined
+327 : name 'ga1' is not defined
+733 : name 'ga1' is not defined
+223 : Request-sent
+662 : name 'ga1' is not defined
+743 : name 'ga1' is not defined
+898 : name 'ga1' is not defined
+107 : name 'ga1' is not defined
+143 : Request-sent
+630 : Request-sent
+785 : Request-sent
+749 : Request-sent
+364 : name 'ga1' is not defined
+992 : name 'ga1' is not defined
+746 : Request-sent
+671 : name 'ga1' is not defined
+656 : name 'ga1' is not defined
+140 : name 'ga1' is not defined
+786 : Request-sent
+838 : Request-sent
+906 : name 'ga1' is not defined
+293 : name 'ga1' is not defined
+332 : Request-sent
+995 : name 'ga1' is not defined
+932 : name 'ga1' is not defined
+979 : name 'ga1' is not defined
+960 : Request-sent
+144 : name 'ga1' is not defined
+431 : name 'ga1' is not defined
+132 : name 'ga1' is not defined
+441 : name 'ga1' is not defined
+611 : Request-sent
+141 : Request-sent
+824 : name 'ga1' is not defined
+249 : Request-sent
+704 : 
+470 : name 'ga1' is not defined
+264 : name 'ga1' is not defined
+548 : name 'ga1' is not defined
+456 : name 'ga1' is not defined
+746 : name 'ga1' is not defined
+589 : name 'ga1' is not defined
+889 : name 'ga1' is not defined
+198 : name 'ga1' is not defined
+347 : name 'ga1' is not defined
+761 : name 'ga1' is not defined
+808 : name 'ga1' is not defined
+362 : name 'ga1' is not defined
+623 : name 'ga1' is not defined
+512 : name 'ga1' is not defined
+526 : name 'ga1' is not defined
+911 : name 'ga1' is not defined
+750 : name 'ga1' is not defined
+702 : name 'ga1' is not defined
+542 : name 'ga1' is not defined
+129 : 
+804 : name 'ga1' is not defined
+416 : name 'ga1' is not defined
+476 : name 'ga1' is not defined
+716 : name 'ga1' is not defined
+496 : name 'ga1' is not defined
+492 : name 'ga1' is not defined
+441 : name 'ga1' is not defined
+705 : name 'ga1' is not defined
+749 : name 'ga1' is not defined
+950 : 
+833 : name 'ga1' is not defined
+392 : name 'ga1' is not defined
+220 : name 'ga1' is not defined
+117 : name 'ga1' is not defined
+677 : name 'ga1' is not defined
+564 : Request-sent
+254 : name 'ga1' is not defined
+451 : Request-sent
+970 : name 'ga1' is not defined
+192 : name 'ga1' is not defined
+469 : Request-sent
+333 : name 'ga1' is not defined
+853 : name 'ga1' is not defined
+827 : name 'ga1' is not defined
+730 : Request-sent
+331 : name 'ga1' is not defined
+839 : 
+246 : name 'ga1' is not defined
+289 : name 'ga1' is not defined
+770 : name 'ga1' is not defined
+310 : 
+933 : name 'ga1' is not defined
+177 : name 'ga1' is not defined
+356 : Request-sent
+604 : name 'ga1' is not defined
+461 : name 'ga1' is not defined
+136 : Request-sent
+467 : name 'ga1' is not defined
+467 : name 'ga1' is not defined
+777 : name 'ga1' is not defined
+528 : name 'ga1' is not defined
+747 : name 'ga1' is not defined
+703 : name 'ga1' is not defined
+441 : name 'ga1' is not defined
+193 : name 'ga1' is not defined
+221 : name 'ga1' is not defined
+177 : name 'ga1' is not defined
+111 : name 'ga1' is not defined
+866 : name 'ga1' is not defined
+288 : name 'ga1' is not defined
+651 : name 'ga1' is not defined
+826 : name 'ga1' is not defined
+686 : name 'ga1' is not defined
+670 : name 'ga1' is not defined
+109 : name 'ga1' is not defined
+116 : name 'ga1' is not defined
+521 : name 'ga1' is not defined
+655 : name 'ga1' is not defined
+602 : name 'ga1' is not defined
+749 : name 'ga1' is not defined
+266 : name 'ga1' is not defined
+911 : name 'ga1' is not defined
+480 : name 'ga1' is not defined
+824 : name 'ga1' is not defined
+435 : name 'ga1' is not defined
+254 : name 'ga1' is not defined
+937 : name 'ga1' is not defined
+483 : name 'ga1' is not defined
+859 : name 'ga1' is not defined
+236 : name 'ga1' is not defined
+211 : name 'ga1' is not defined
+638 : name 'ga1' is not defined
+756 : name 'ga1' is not defined
+182 : name 'ga1' is not defined
+602 : name 'ga1' is not defined
+997 : name 'ga1' is not defined
+945 : name 'ga1' is not defined
+659 : name 'ga1' is not defined
+738 : name 'ga1' is not defined
+656 : name 'ga1' is not defined
+623 : name 'ga1' is not defined
+930 : TalkException(code=10, reason='You are not related to group: c990e6d5e529c29962b23250d7aded0c3', parameterMap={'2': 'c990e6d5e529c29962b23250d7aded0c3'})
+282 : name 'ga1' is not defined
+810 : name 'ga1' is not defined
+879 : name 'ga1' is not defined

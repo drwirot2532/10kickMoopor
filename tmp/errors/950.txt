@@ -1,0 +1,12 @@
+  File "10k.py", line 3643, in executeOp
+    group = line.getGroup(op.param1)
+  File "/root/10k/LineAPI/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/root/10k/LineAPI/linepy/talk.py", line 594, in getGroup
+    return self.talk.getGroup(groupId)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 4229, in getGroup
+    self.send_getGroup(groupId)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 4233, in send_getGroup
+    self._oprot.writeMessageBegin('getGroup', TMessageType.CALL, self._seqid)
+  File "/root/10k/thrift/protocol/TCompactProtocol.py", line 155, in writeMessageBegin
+    assert self.state == CLEAR

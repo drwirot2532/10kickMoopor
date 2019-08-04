@@ -1,0 +1,2 @@
+  File "10k.py", line 5319, in executeOp
+    if ga1 in op.param3:

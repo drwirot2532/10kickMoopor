@@ -1,0 +1,12 @@
+  File "10k.py", line 6726, in executeOp
+    executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey)
+  File "10k.py", line 3434, in executeCmd
+    line.cancelGroupInvitation(to, [member.mid])
+  File "/root/10k/LineAPI/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/root/10k/LineAPI/linepy/talk.py", line 586, in cancelGroupInvitation
+    return self.talk.cancelGroupInvitation(0, groupId, contactIds)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 2379, in cancelGroupInvitation
+    self.recv_cancelGroupInvitation()
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 2403, in recv_cancelGroupInvitation
+    raise result.e

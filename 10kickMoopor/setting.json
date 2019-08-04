@@ -1,0 +1,58 @@
+{
+    "setKey": {
+        "status": false,
+        "key": "/"
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "checkPost": true,
+    "changeGroupPicture": [],
+    "restartPoint": null,
+    "checkSticker": false,
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "autoAdd": {
+        "status": false,
+        "reply": false,
+        "message": "\u0e23\u0e31\u0e19\u0e21\u0e32\u0e40\u0e25\u0e22!!\u0e40\u0e2d\u0e32\u0e04\u0e37\u0e19\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e23\u0e49\u0e2d\u0e07"
+    },
+    "autoJoin": {
+        "status": true,
+        "ticket": false,
+        "reply": false,
+        "message": "on\nAutoleave on"
+    },
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404",
+    "autoRespond": {
+        "status": false,
+        "message": "\u0e2b\u0e37\u0e21"
+    },
+    "changeCoverProfile": false,
+    "changePictureProfile": false,
+    "checkContact": false,
+    "greet": {
+        "leave": {
+            "status": false,
+            "message": "Good bye @!, see you next time"
+        },
+        "join": {
+            "status": false,
+            "message": "Hello @!, welcome to group {name}"
+        }
+    },
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "myProfile": {
+        "displayName": "\u20af\u212f\u1e67\u20b8\u2148\u1d0e\u045b\u2147\u1d72\u045b\u212f\u1eb1\u211b\u2113",
+        "videoProfile": "{\"category\":\"vp.mp4\",\"extension\":\"jpeg\",\"animated\":false,\"width\":354,\"height\":354,\"fileSize\":25940,\"tids\":{\"mp4\":\"vp.small\",\"sjpg\":\"vp.sjpg\"}}",
+        "statusMessage": "\ud83c\udf52\u0e02\u0e32\u0e22\u0e44\u0e1f\u0e25\u0e2a\u0e04\u0e34\u0e1b \u0e40\u0e0a\u0e25\u0e1a\u0e2d\u0e17\n      \ud83c\udf37 \u0e44\u0e1f\u0e25\u0e40\u0e0a\u0e25\u0e40\u0e14\u0e35\u0e22\u0e27\n\ud83c\udf41 3 \u0e04\u0e34\u0e01 /\u0e1c\u0e35 \ud83d\udd1d \ud83c\udf41 5 \u0e04\u0e34\u0e01 /\u0e1c\u0e35\n\ud83c\udf41 7 \u0e04\u0e34\u0e01 /\u0e1c\u0e35 \ud83d\udd1d \ud83c\udf41 10\u0e04\u0e34\u0e01 /\u0e1c\u0e35\n\u2554\u2501\u2501\u2501\u2501\u2501\u2619\u2501\u2501\u2501\u2501\u2501\u2557\n   \u2620 \u0b86\u0e36\u10e1\u0b86\u0e31\u044e\u2113\u0a88\u274d\u0e30 \u2620 \n\u255a\u2501\u2501\u2501\u2501\u2501\u2619\u2501\u2501\u2501\u2501\u2501\u255d\n\ud83c\udf52 \u0e23\u0e31\u0e1a\u0e17\u0e33\u0e1a\u0e2d\u0e17Line\u27acSelfbot\n\ud83d\udc7c \u0e40\u0e0a\u0e25\u0e1a\u0e2d\u0e17\u0e17\u0e38\u0e01\u0e0a\u0e19\u0e34\u0e14\n\ud83d\udc7c \u0e23\u0e48\u0e32\u0e07\u0e04\u0e23\u0e36\u0e48\u0e07\u0e04\u0e19\ud83d\udd1d\u0e04\u0e23\u0e36\u0e48\u0e07\u0e1a\u0e2d\u0e17\n\ud83c\udf37 \u0e40\u0e0a\u0e25 \ufe0f\u27a2\u2776 \u0e04\u0e34\u0e01 / \u2778 \u0e04\u0e34\u0e01\n\ud83c\udf37 \u0e40\u0e0a\u0e25 \u27a2\u278e \u0e04\u0e34\u0e01 / \u277c \u0e04\u0e34\u0e01\n\ud83c\udf37 \u0e40\u0e0a\u0e25 \u27a2 \u2793 \u0e04\u0e34\u0e01 / \u278a\u277a \u0e04\u0e34\u0e01\n\ud83c\udf37 \u0e40\u0e0a\u0e25 \u27a220 \u0e04\u0e34\u0e01 \u279f\u0e04\u0e34\u0e01\u0e1c\u0e35\n\u264b \u0e02\u0e32\u0e22\u0e2a\u0e04\u0e34\u0e1b \u0e1a\u0e2d\u0e17\u0e1a\u0e34\u0e19Js\n\ud83d\udc49 \u0e0b\u0e37\u0e49\u0e2d\u0e2a\u0e04\u0e34\u0e1b \u0e16\u0e32\u0e27\u0e23 500 \u0e1a\u0e32\u0e17\n\ud83d\udc49 \u0e02\u0e32\u0e22\u0e25\u0e34\u0e49\u0e07\u0e1a\u0e34\u0e19 80 \u270f \u278a \u0e25\u0e34\u0e49\u0e07\n\ud83d\udc47\u2756 \u0e2a\u0e19\u0e43\u0e08\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e21\u0e32\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u2756\ud83d\udc47\n\ud83d\udcde \u0e42\u0e17\u0e23 : 0658232616\n\ud83d\udc90 ID line : llel_0658\n\ud83d\udd31 http://line.me/ti/p/%40scj2592u",
+        "coverStatus": "",
+        "coverId": "42d6b23d1128f504dfd662bd9ded1d92",
+        "pictureStatus": "0hWvXOhV3lCFllNiJp3213DllzBjQSGA4RHVFObEdmVjwdBh9aXFITNkk-Xz5LUksIUFZBPRJiBmpI"
+    },
+    "autoRead": false,
+    "autoRespondMention": {
+        "status": false,
+        "message": "\u0e2b\u0e37\u0e21"
+    }
+}
